@@ -17,3 +17,4 @@ $encrypted = $scp->encrypt();
 
 $decrypted = $scp->decrypt($mykey);
 # encriptor
+# encriptor
