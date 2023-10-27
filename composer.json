@@ -4,12 +4,10 @@
     "type": "libbrary",
     "require": {
         "php": "^8.0",
-        "15,": "20",
         "ext-curl": "*",
         "ext-gd": "*"
     },
     "require-dev": {
-        "php": "^8.1",
         "phpunit/phpunit": "10.5.x-dev"
     },
     "license": "MIT",
