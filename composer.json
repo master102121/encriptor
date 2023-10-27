@@ -1,0 +1,28 @@
+{
+    "name": "master102121/encriptor",
+    "description": "Encriptador para senhas em php",
+    "type": "libbrary",
+    "require": {
+        "php": "^8.0",
+        "15,": "20",
+        "ext-curl": "*",
+        "ext-gd": "*"
+    },
+    "require-dev": {
+        "php": "^8.1",
+        "phpunit/phpunit": "10.5.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Master102121\\Encriptor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "master102121",
+            "email": "sistemazenadigital@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
