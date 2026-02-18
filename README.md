@@ -4,7 +4,7 @@ In composer
 
 composer require master102121/encryptor
 
-use Master102121\Encryptor\SaltCrypt;
+use Master102121\Encriptor\SaltCrypt;
 
 $mykey = "mykey";
 
